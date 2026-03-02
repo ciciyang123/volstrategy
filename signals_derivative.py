@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # volatility_signal.py
+#let's explore new signals
 from signal_base import BaseSignal
 import numpy as np
 import pandas as pd
