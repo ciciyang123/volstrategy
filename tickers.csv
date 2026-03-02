@@ -1,0 +1,748 @@
+Symbol,Score,SecType,Strike,Expiration,OptionSymbol,UpdateTime,EMove(5),Industry
+A,0,S,,,A,16:16:09.288,6.22,Electronics
+AA,0,S,,,AA,16:16:09.288,3.95,Mining
+AAL,0,S,,,AAL,16:16:09.288,4.61,Airlines
+AAP,0,S,,,AAP,16:16:09.288,11.28,Retail
+AAPL,0,S,,,AAPL,16:16:09.288,3.31,Computers
+ABNB,0,S,,,ABNB,16:16:09.288,4.67,Internet
+ABT,0,S,,,ABT,16:16:09.288,3.64,Healthcare-Products
+ACHC,0,S,,,ACHC,16:16:09.288,4.89,Healthcare-Services
+ACI,0,S,,,ACI,16:16:09.288,0.84,Food
+ACN,0,S,,,ACN,16:16:09.288,4.59,Computers
+ADBE,0,S,,,ADBE,16:16:09.288,7.92,Software
+ADI,0,S,,,ADI,16:16:09.288,4.57,Semiconductors
+ADM,0,S,,,ADM,16:16:09.288,4.19,Agriculture
+ADP,0,S,,,ADP,16:16:09.288,4.05,Commercial Services
+ADSK,0,S,,,ADSK,16:16:09.288,3.05,Software
+AEE,0,S,,,AEE,16:16:09.288,1.42,Electric
+AEM,0,S,,,AEM,16:16:09.288,1.92,Mining
+AEO,0,S,,,AEO,16:16:09.304,7.94,Retail
+AEP,0,S,,,AEP,16:16:09.304,2.35,Electric
+AER,0,S,,,AER,16:16:09.304,1.17,Diversified Finan Serv
+AFL,0,S,,,AFL,16:16:09.305,5.13,Insurance
+AFRM,0,S,,,AFRM,16:16:09.305,12.78,Commercial Services
+AGCO,0,S,,,AGCO,16:16:09.305,2.07,Machinery-Diversified
+AI,0,S,,,AI,16:16:09.305,16.04,Software
+AIG,0,S,,,AIG,16:16:09.306,3.47,Insurance
+AKAM,0,S,,,AKAM,16:16:09.306,7.53,Software
+ALAB,0,S,,,ALAB,16:16:09.306,9.10,Semiconductors
+ALB,0,S,,,ALB,16:16:09.306,2.54,Chemicals
+ALC,0,S,,,ALC,16:16:09.306,6.21,Healthcare-Products
+ALGN,0,S,,,ALGN,16:16:09.306,9.85,Healthcare-Products
+ALK,0,S,,,ALK,16:16:09.306,5.33,Airlines
+ALL,0,S,,,ALL,16:16:09.306,2.53,Insurance
+ALLY,0,S,,,ALLY,16:16:09.306,5.20,Diversified Finan Serv
+ALTR,0,S,,,ALTR,16:16:09.306,5.60,Software
+ALV,0,S,,,ALV,16:16:09.306,7.13,Auto Parts_Equipment
+AMAT,0,S,,,AMAT,16:16:09.306,3.45,Semiconductors
+AMD,0,S,,,AMD,16:16:09.306,7.47,Semiconductors
+AMKR,0,S,,,AMKR,16:16:09.306,3.54,Semiconductors
+AMX,0,S,,,AMX,16:16:09.306,2.71,Telecommunications
+AMZN,0,S,,,AMZN,16:16:09.306,5.85,Internet
+ANET,0,S,,,ANET,16:16:09.306,12.27,Telecommunications
+ANF,0,S,,,ANF,16:16:09.306,16.98,Retail
+AON,0,S,,,AON,16:16:09.306,4.13,Insurance
+AOS,0,S,,,AOS,16:16:09.306,4.81,Miscellaneous Manufactur
+APA,0,S,,,APA,16:16:09.306,4.16,Oil_Gas
+APD,0,S,,,APD,16:16:09.306,8.02,Chemicals
+APH,0,S,,,APH,16:16:09.306,3.32,Electronics
+APO,0,S,,,APO,16:16:09.306,3.96,Diversified Finan Serv
+APP,0,S,,,APP,16:16:09.306,18.07,Software
+APTV,0,S,,,APTV,16:16:09.306,7.79,Auto Parts_Equipment
+ARM,0,S,,,ARM,16:16:09.306,18.47,Semiconductors
+ASAN,0,S,,,ASAN,16:16:09.306,9.21,Software
+ASB,0,S,,,ASB,16:16:09.306,1.59,Banks
+ASML,0,S,,,ASML,16:16:09.306,7.66,Semiconductors
+ASO,0,S,,,ASO,16:16:09.306,4.91,Retail
+ASTS,0,S,,,ASTS,16:16:09.306,25.92,Telecommunications
+ATHM,0,S,,,ATHM,16:16:09.306,5.44,Internet
+ATI,0,S,,,ATI,16:16:09.306,8.10,Iron/Steel
+AU,0,S,,,AU,16:16:09.306,6.12,Mining
+AVGO,0,S,,,AVGO,16:16:09.306,5.98,Semiconductors
+AVT,0,S,,,AVT,16:16:09.306,4.17,Electronics
+AWK,0,S,,,AWK,16:16:09.306,1.89,Water
+AX,0,S,,,AX,16:16:09.306,6.96,Savings_Loans
+AXON,0,S,,,AXON,16:16:09.306,10.71,Miscellaneous Manufactur
+AXP,0,S,,,AXP,16:16:09.306,5.07,Diversified Finan Serv
+AXTA,0,S,,,AXTA,16:16:09.306,6.77,Chemicals
+AZTA,0,S,,,AZTA,16:16:09.306,11.51,Semiconductors
+BA,0,S,,,BA,16:16:09.306,3.97,Aerospace/Defense
+BABA,0,S,,,BABA,16:16:09.306,6.21,Internet
+BAC,0,S,,,BAC,16:16:09.306,3.34,Banks
+BALL,0,S,,,BALL,16:16:09.306,6.68,Packaging_Containers
+BAX,0,S,,,BAX,16:16:09.306,4.87,Healthcare-Products
+BBWI,0,S,,,BBWI,16:16:09.306,7.91,Retail
+BBY,0,S,,,BBY,16:16:09.306,4.52,Retail
+BC,0,S,,,BC,16:16:09.306,4.81,Leisure Time
+BCE,0,S,,,BCE,16:16:09.306,1.92,Telecommunications
+BCS,0,S,,,BCS,16:16:09.306,7.10,Banks
+BE,0,S,,,BE,16:16:09.323,8.69,Machinery-Constr_Mining
+BEKE,0,S,,,BEKE,16:16:09.323,6.30,Real Estate
+BEN,0,S,,,BEN,16:16:09.323,2.93,Diversified Finan Serv
+BERY,0,S,,,BERY,16:16:09.323,5.04,Packaging_Containers
+BF/B,0,S,,,BF/B,16:16:09.324,5.56,Beverages
+BG,0,S,,,BG,16:16:09.324,2.89,Agriculture
+BHP,0,S,,,BHP,16:16:09.325,2.50,Mining
+BIDU,0,S,,,BIDU,16:16:09.325,3.67,Internet
+BILI,0,S,,,BILI,16:16:09.325,5.49,Software
+BILL,0,S,,,BILL,16:16:09.326,15.27,Software
+BJ,0,S,,,BJ,16:16:09.327,5.98,Retail
+BK,0,S,,,BK,16:16:09.327,3.83,Banks
+BKR,0,S,,,BKR,16:16:09.327,2.54,Oil_Gas Services
+BLK,0,S,,,BLK,16:16:09.327,1.46,Diversified Finan Serv
+BMO,0,S,,,BMO,16:16:09.328,4.14,Banks
+BNS,0,S,,,BNS,16:16:09.328,2.43,Banks
+BOX,0,S,,,BOX,16:16:09.328,8.06,Software
+BP,0,S,,,BP,16:16:09.328,4.72,Oil_Gas
+BRK/B,0,S,,,BRK/B,16:16:09.328,1.74,Insurance
+BROS,0,S,,,BROS,16:16:09.328,8.77,Retail
+BSX,0,S,,,BSX,16:16:09.328,2.12,Healthcare-Products
+BTI,0,S,,,BTI,16:16:09.328,1.67,Agriculture
+BUD,0,S,,,BUD,16:16:09.328,3.48,Beverages
+BURL,0,S,,,BURL,16:16:09.328,9.99,Retail
+BWA,0,S,,,BWA,16:16:09.328,8.76,Auto Parts_Equipment
+BX,0,S,,,BX,16:16:09.328,2.87,Private Equity
+BYD,0,S,,,BYD,16:16:09.328,6.54,Lodging
+BZ,0,S,,,BZ,16:16:09.328,7.80,Internet
+C,0,S,,,C,16:16:09.328,1.77,Banks
+CAG,0,S,,,CAG,16:16:09.328,2.28,Food
+CALM,0,S,,,CALM,16:16:09.328,3.47,Food
+CAR,0,S,,,CAR,16:16:09.328,12.60,Commercial Services
+CART,0,S,,,CART,16:16:09.328,5.24,Internet
+CAT,0,S,,,CAT,16:16:09.328,5.08,Machinery-Constr_Mining
+CAVA,0,S,,,CAVA,16:16:09.328,7.02,Retail
+CB,0,S,,,CB,16:16:09.328,2.40,Insurance
+CBOE,0,S,,,CBOE,16:16:09.328,2.54,Diversified Finan Serv
+CBSH,0,S,,,CBSH,16:16:09.328,2.54,Banks
+CC,0,S,,,CC,16:16:09.328,8.94,Chemicals
+CCEP,0,S,,,CCEP,16:16:09.328,1.22,Beverages
+CCJ,0,S,,,CCJ,16:16:09.328,5.96,Mining
+CCK,0,S,,,CCK,16:16:09.328,7.09,Packaging_Containers
+CCL,0,S,,,CCL,16:16:09.328,5.69,Leisure Time
+CCOI,0,S,,,CCOI,16:16:09.328,4.98,Internet
+CDNS,0,S,,,CDNS,16:16:09.328,1.77,Software
+CDW,0,S,,,CDW,16:16:09.328,4.37,Internet
+CE,0,S,,,CE,16:16:09.328,1.34,Chemicals
+CEG,0,S,,,CEG,16:16:09.328,7.17,Electric
+CELH,0,S,,,CELH,16:16:09.328,12.79,Beverages
+CF,0,S,,,CF,16:16:09.328,2.25,Chemicals
+CFG,0,S,,,CFG,16:16:09.328,3.78,Banks
+CFLT,0,S,,,CFLT,16:16:09.328,24.29,Software
+CG,0,S,,,CG,16:16:09.328,7.89,Private Equity
+CGNX,0,S,,,CGNX,16:16:09.328,4.43,Machinery-Diversified
+CHD,0,S,,,CHD,16:16:09.328,3.07,Household Products/Wares
+CHKP,0,S,,,CHKP,16:16:09.328,3.28,Computers
+CHRW,0,S,,,CHRW,16:16:09.328,6.69,Transportation
+CHTR,0,S,,,CHTR,16:16:09.328,7.30,Media
+CHWY,0,S,,,CHWY,16:16:09.328,14.37,Internet
+CHX,0,S,,,CHX,16:16:09.328,3.75,Oil_Gas Services
+CIEN,0,S,,,CIEN,16:16:09.328,8.63,Telecommunications
+CL,0,S,,,CL,16:16:09.344,2.00,Cosmetics/Personal Care
+CLF,0,S,,,CLF,16:16:09.344,7.48,Iron/Steel
+CLX,0,S,,,CLX,16:16:09.344,6.29,Household Products/Wares
+CM,0,S,,,CM,16:16:09.344,3.96,Banks
+CMA,0,S,,,CMA,16:16:09.344,5.08,Banks
+CMCSA,0,S,,,CMCSA,16:16:09.344,5.17,Media
+CME,0,S,,,CME,16:16:09.344,1.96,Diversified Finan Serv
+CMG,0,S,,,CMG,16:16:09.344,5.94,Retail
+CMI,0,S,,,CMI,16:16:09.344,3.21,Auto Manufacturers
+CMS,0,S,,,CMS,16:16:09.344,1.73,Electric
+CNC,0,S,,,CNC,16:16:09.344,2.56,Healthcare-Services
+CNI,0,S,,,CNI,16:16:09.344,2.26,Transportation
+CNP,0,S,,,CNP,16:16:09.344,1.07,Electric
+CNQ,0,S,,,CNQ,16:16:09.344,2.77,Oil_Gas
+CNX,0,S,,,CNX,16:16:09.344,1.51,Oil_Gas
+COF,0,S,,,COF,16:16:09.344,3.03,Diversified Finan Serv
+COHR,0,S,,,COHR,16:16:09.344,11.35,Electronics
+COIN,0,S,,,COIN,16:16:09.344,6.96,Diversified Finan Serv
+COLB,0,S,,,COLB,16:16:09.344,7.50,Banks
+COO,0,S,,,COO,16:16:09.344,4.83,Healthcare-Products
+COP,0,S,,,COP,16:16:09.344,1.90,Oil_Gas
+COST,0,S,,,COST,16:16:09.344,3.78,Retail
+CP,0,S,,,CP,16:16:09.344,1.75,Transportation
+CPAY,0,S,,,CPAY,16:16:09.344,6.65,Commercial Services
+CPB,0,S,,,CPB,16:16:09.344,3.53,Food
+CPNG,0,S,,,CPNG,16:16:09.344,7.90,Internet
+CPRI,0,S,,,CPRI,16:16:09.344,3.49,Apparel
+CRM,0,S,,,CRM,16:16:09.344,7.96,Software
+CROX,0,S,,,CROX,16:16:09.344,11.16,Apparel
+CRUS,0,S,,,CRUS,16:16:09.344,6.78,Semiconductors
+CRWD,0,S,,,CRWD,16:16:09.344,8.81,Computers
+CSCO,0,S,,,CSCO,16:16:09.344,3.90,Telecommunications
+CSGP,0,S,,,CSGP,16:16:09.344,5.31,Commercial Services
+CSX,0,S,,,CSX,16:16:09.344,2.03,Transportation
+CTLT,0,S,,,CTLT,16:16:09.344,5.40,Healthcare-Services
+CTRA,0,S,,,CTRA,16:16:09.344,1.96,Oil_Gas
+CTSH,0,S,,,CTSH,16:16:09.344,3.79,Computers
+CVE,0,S,,,CVE,16:16:09.344,3.44,Oil_Gas
+CVNA,0,S,,,CVNA,16:16:09.344,27.68,Retail
+CVX,0,S,,,CVX,16:16:09.344,2.30,Oil_Gas
+CYBR,0,S,,,CYBR,16:16:09.344,6.65,Computers
+CZR,0,S,,,CZR,16:16:09.344,1.92,Entertainment
+D,0,S,,,D,16:16:09.344,2.17,Electric
+DAL,0,S,,,DAL,16:16:09.344,3.61,Airlines
+DAR,0,S,,,DAR,16:16:09.344,4.49,Agriculture
+DASH,0,S,,,DASH,16:16:09.344,6.96,Internet
+DAY,0,S,,,DAY,16:16:09.344,5.55,Software
+DB,0,S,,,DB,16:16:09.344,6.36,Banks
+DBX,0,S,,,DBX,16:16:09.344,7.83,Software
+DD,0,S,,,DD,16:16:09.344,6.14,Chemicals
+DDOG,0,S,,,DDOG,16:16:09.359,14.80,Software
+DE,0,S,,,DE,16:16:09.359,4.05,Machinery-Diversified
+DELL,0,S,,,DELL,16:16:09.359,15.48,Computers
+DEO,0,S,,,DEO,16:16:09.359,2.01,Beverages
+DFS,0,S,,,DFS,16:16:09.359,7.86,Diversified Finan Serv
+DG,0,S,,,DG,16:16:09.359,9.23,Retail
+DGX,0,S,,,DGX,16:16:09.359,3.63,Healthcare-Services
+DHI,0,S,,,DHI,16:16:09.359,4.85,Home Builders
+DHR,0,S,,,DHR,16:16:09.359,4.33,Healthcare-Products
+DINO,0,S,,,DINO,16:16:09.359,4.05,Oil_Gas
+DIS,0,S,,,DIS,16:16:09.359,8.31,Media
+DJT,0,S,,,DJT,16:16:09.359,5.05,Internet
+DKNG,0,S,,,DKNG,16:16:09.359,8.14,Entertainment
+DKS,0,S,,,DKS,16:16:09.359,11.83,Retail
+DLTR,0,S,,,DLTR,16:16:09.359,9.69,Retail
+DOCS,0,S,,,DOCS,16:16:09.359,12.81,Software
+DOCU,0,S,,,DOCU,16:16:09.359,4.04,Software
+DOV,0,S,,,DOV,16:16:09.359,3.89,Machinery-Diversified
+DOW,0,S,,,DOW,16:16:09.359,1.83,Chemicals
+DOX,0,S,,,DOX,16:16:09.359,3.49,Computers
+DPZ,0,S,,,DPZ,16:16:09.359,5.25,Retail
+DRI,0,S,,,DRI,16:16:09.359,2.72,Retail
+DT,0,S,,,DT,16:16:09.359,5.38,Software
+DTE,0,S,,,DTE,16:16:09.359,0.62,Electric
+DUK,0,S,,,DUK,16:16:09.359,1.76,Electric
+DUOL,0,S,,,DUOL,16:16:09.359,15.63,Software
+DVA,0,S,,,DVA,16:16:09.359,8.01,Healthcare-Services
+DVN,0,S,,,DVN,16:16:09.359,2.83,Oil_Gas
+DXC,0,S,,,DXC,16:16:09.359,11.78,Computers
+EA,0,S,,,EA,16:16:09.359,3.05,Software
+EBAY,0,S,,,EBAY,16:16:09.359,5.75,Internet
+ECL,0,S,,,ECL,16:16:09.359,4.15,Chemicals
+ED,0,S,,,ED,16:16:09.359,0.71,Electric
+EDU,0,S,,,EDU,16:16:09.359,6.98,Commercial Services
+EFX,0,S,,,EFX,16:16:09.359,5.14,Commercial Services
+EIX,0,S,,,EIX,16:16:09.359,1.45,Electric
+EL,0,S,,,EL,16:16:09.359,12.96,Cosmetics/Personal Care
+ELF,0,S,,,ELF,16:16:09.359,12.42,Cosmetics/Personal Care
+ELV,0,S,,,ELV,16:16:09.359,2.90,Healthcare-Services
+EMB,0,S,,,EMB,16:16:09.359,0.00,Debt Fund
+EME,0,S,,,EME,16:16:09.359,5.91,Engineering_Construction
+EMN,0,S,,,EMN,16:16:09.359,2.55,Chemicals
+EMR,0,S,,,EMR,16:16:09.359,5.70,Electrical Compo_Equip
+ENB,0,S,,,ENB,16:16:09.359,0.85,Pipelines
+ENPH,0,S,,,ENPH,16:16:09.359,11.48,Energy-Alternate Sources
+ENV,0,S,,,ENV,16:16:09.359,6.96,Software
+EOG,0,S,,,EOG,16:16:09.359,1.93,Oil_Gas
+EPAM,0,S,,,EPAM,16:16:09.359,11.25,Computers
+EPD,0,S,,,EPD,16:16:09.375,0.98,Pipelines
+EQNR,0,S,,,EQNR,16:16:09.375,3.00,Oil_Gas
+EQT,0,S,,,EQT,16:16:09.375,2.79,Oil_Gas
+ES,0,S,,,ES,16:16:09.376,2.20,Electric
+ESTC,0,S,,,ESTC,16:16:09.376,16.45,Software
+ET,0,S,,,ET,16:16:09.376,1.71,Pipelines
+ETN,0,S,,,ETN,16:16:09.377,4.89,Miscellaneous Manufactur
+ETR,0,S,,,ETR,16:16:09.377,1.37,Electric
+ETSY,0,S,,,ETSY,16:16:09.377,9.05,Internet
+EW,0,S,,,EW,16:16:09.378,10.58,Healthcare-Products
+EXAS,0,S,,,EXAS,16:16:09.378,7.85,Healthcare-Products
+EXC,0,S,,,EXC,16:16:09.379,1.60,Electric
+EXPD,0,S,,,EXPD,16:16:09.379,3.14,Transportation
+EXPE,0,S,,,EXPE,16:16:09.379,14.63,Internet
+F,0,S,,,F,16:16:09.380,8.15,Auto Manufacturers
+FANG,0,S,,,FANG,16:16:09.380,1.91,Oil_Gas
+FAST,0,S,,,FAST,16:16:09.380,5.33,Distribution/Wholesale
+FCX,0,S,,,FCX,16:16:09.380,2.34,Mining
+FDX,0,S,,,FDX,16:16:09.381,8.39,Transportation
+FE,0,S,,,FE,16:16:09.381,2.43,Electric
+FFIV,0,S,,,FFIV,16:16:09.381,4.06,Internet
+FI,0,S,,,FI,16:16:09.382,3.30,Software
+FIS,0,S,,,FIS,16:16:09.382,3.33,Software
+FITB,0,S,,,FITB,16:16:09.383,2.91,Banks
+FIVE,0,S,,,FIVE,16:16:09.383,8.00,Retail
+FIVN,0,S,,,FIVN,16:16:09.383,8.72,Software
+FLO,0,S,,,FLO,16:16:09.384,6.05,Food
+FLR,0,S,,,FLR,16:16:09.384,8.11,Engineering_Construction
+FLS,0,S,,,FLS,16:16:09.384,2.32,Machinery-Diversified
+FMC,0,S,,,FMC,16:16:09.384,7.42,Chemicals
+FMX,0,S,,,FMX,16:16:09.385,4.51,Beverages
+FND,0,S,,,FND,16:16:09.385,4.20,Retail
+FNV,0,S,,,FNV,16:16:09.385,1.02,Mining
+FOXA,0,S,,,FOXA,16:16:09.386,3.62,Media
+FRO,0,S,,,FRO,16:16:09.386,3.34,Transportation
+FROG,0,S,,,FROG,16:16:09.386,16.50,Software
+FRSH,0,S,,,FRSH,16:16:09.387,8.73,Software
+FSLR,0,S,,,FSLR,16:16:09.387,3.76,Energy-Alternate Sources
+FTI,0,S,,,FTI,16:16:09.387,5.78,Oil_Gas Services
+FTNT,0,S,,,FTNT,16:16:09.387,11.29,Computers
+FTV,0,S,,,FTV,16:16:09.388,6.03,Electronics
+FUN,0,S,,,FUN,16:16:09.388,3.94,Entertainment
+FUTU,0,S,,,FUTU,16:16:09.388,4.08,Diversified Finan Serv
+GD,0,S,,,GD,16:16:09.389,3.65,Aerospace/Defense
+GDDY,0,S,,,GDDY,16:16:09.389,5.45,Internet
+GE,0,S,,,GE,16:16:09.389,5.54,Aerospace/Defense
+GEN,0,S,,,GEN,16:16:09.390,9.70,Internet
+GFS,0,S,,,GFS,16:16:09.390,5.04,Semiconductors
+GGAL,0,S,,,GGAL,16:16:09.390,3.40,Banks
+GIL,0,S,,,GIL,16:16:09.391,6.28,Apparel
+GIS,0,S,,,GIS,16:16:09.391,2.90,Food
+GLBE,0,S,,,GLBE,16:16:09.391,11.43,Software
+GLD,0,S,,,GLD,16:16:09.392,0.00,Commodity Fund
+GLNG,0,S,,,GLNG,16:16:09.392,4.80,Pipelines
+GLOB,0,S,,,GLOB,16:16:09.393,8.41,Computers
+GLW,0,S,,,GLW,16:16:09.393,3.38,Telecommunications
+GM,0,S,,,GM,16:16:09.393,4.87,Auto Manufacturers
+GME,0,S,,,GME,16:16:09.394,16.66,Retail
+GMED,0,S,,,GMED,16:16:09.394,5.52,Healthcare-Products
+GNRC,0,S,,,GNRC,16:16:09.394,11.35,Electrical Compo_Equip
+GNTX,0,S,,,GNTX,16:16:09.395,4.48,Auto Parts_Equipment
+GOLD,0,S,,,GOLD,16:16:09.395,0.74,Mining
+GOOG,0,S,,,GOOG,16:16:09.395,7.51,Internet
+GOOGL,0,S,,,GOOGL,16:16:09.397,7.61,Internet
+GPC,0,S,,,GPC,16:16:09.397,6.49,Retail
+GPN,0,S,,,GPN,16:16:09.398,6.76,Commercial Services
+GPS,0,S,,,GPS,16:16:09.398,17.41,Retail
+GRMN,0,S,,,GRMN,16:16:09.398,7.39,Electronics
+GS,0,S,,,GS,16:16:09.399,1.76,Banks
+GT,0,S,,,GT,16:16:09.399,8.57,Auto Parts_Equipment
+GTLB,0,S,,,GTLB,16:16:09.400,13.81,Software
+GWRE,0,S,,,GWRE,16:16:09.400,8.99,Software
+GXO,0,S,,,GXO,16:16:09.400,2.02,Commercial Services
+HAL,0,S,,,HAL,16:16:09.401,2.95,Oil_Gas Services
+HAS,0,S,,,HAS,16:16:09.401,5.90,Toys/Games/Hobbies
+HBAN,0,S,,,HBAN,16:16:09.401,2.63,Banks
+HCA,0,S,,,HCA,16:16:09.402,3.73,Healthcare-Services
+HCC,0,S,,,HCC,16:16:09.402,5.39,Coal
+HCP,0,S,,,HCP,16:16:09.402,11.68,Software
+HD,0,S,,,HD,16:16:09.402,1.68,Retail
+HDB,0,S,,,HDB,16:16:09.403,3.19,Banks
+HES,0,S,,,HES,16:16:09.403,1.10,Oil_Gas
+HGV,0,S,,,HGV,16:16:09.403,4.42,Lodging
+HIG,0,S,,,HIG,16:16:09.404,3.24,Insurance
+HLT,0,S,,,HLT,16:16:09.404,1.87,Lodging
+HMC,0,S,,,HMC,16:16:09.404,1.79,Auto Manufacturers
+HOG,0,S,,,HOG,16:16:09.405,6.16,Leisure Time
+HOLX,0,S,,,HOLX,16:16:09.405,3.71,Healthcare-Products
+HON,0,S,,,HON,16:16:09.405,3.09,Electronics
+HOOD,0,S,,,HOOD,16:16:09.406,8.80,Internet
+HP,0,S,,,HP,16:16:09.406,6.47,Oil_Gas
+HPE,0,S,,,HPE,16:16:09.406,5.89,Computers
+HPQ,0,S,,,HPQ,16:16:09.407,6.76,Computers
+HRB,0,S,,,HRB,16:16:09.407,5.16,Commercial Services
+HRL,0,S,,,HRL,16:16:09.407,7.34,Food
+HSBC,0,S,,,HSBC,16:16:09.408,3.71,Banks
+HSIC,0,S,,,HSIC,16:16:09.408,4.34,Healthcare-Products
+HSY,0,S,,,HSY,16:16:09.408,3.05,Food
+HTGC,0,S,,,HTGC,16:16:09.409,3.07,Private Equity
+HTHT,0,S,,,HTHT,16:16:09.409,2.25,Lodging
+HUBB,0,S,,,HUBB,16:16:09.409,6.68,Electronics
+HUBS,0,S,,,HUBS,16:16:09.409,5.74,Software
+HUM,0,S,,,HUM,16:16:09.410,5.65,Healthcare-Services
+HUN,0,S,,,HUN,16:16:09.410,2.44,Chemicals
+HYG,0,S,,,HYG,16:16:09.410,0.00,Debt Fund
+IAC,0,S,,,IAC,16:16:09.411,7.22,Internet
+IBKR,0,S,,,IBKR,16:16:09.411,2.67,Diversified Finan Serv
+IBM,0,S,,,IBM,16:16:09.411,5.82,Computers
+IBN,0,S,,,IBN,16:16:09.412,1.77,Banks
+ICE,0,S,,,ICE,16:16:09.412,2.52,Diversified Finan Serv
+IEP,0,S,,,IEP,16:16:09.412,12.05,Investment Companies
+IFF,0,S,,,IFF,16:16:09.413,8.05,Chemicals
+IGT,0,S,,,IGT,16:16:09.413,3.34,Entertainment
+INFY,0,S,,,INFY,16:16:09.414,5.98,Computers
+ING,0,S,,,ING,16:16:09.414,2.60,Banks
+INTC,0,S,,,INTC,16:16:09.415,8.20,Semiconductors
+INTU,0,S,,,INTU,16:16:09.415,4.49,Software
+IOT,0,S,,,IOT,16:16:09.415,18.57,Software
+IP,0,S,,,IP,16:16:09.416,2.62,Forest Products_Paper
+IPG,0,S,,,IPG,16:16:09.416,4.04,Advertising
+IQV,0,S,,,IQV,16:16:09.416,5.89,Healthcare-Services
+IRDM,0,S,,,IRDM,16:16:09.417,10.10,Telecommunications
+ISRG,0,S,,,ISRG,16:16:09.417,3.39,Healthcare-Products
+ITW,0,S,,,ITW,16:16:09.417,2.68,Miscellaneous Manufactur
+IVZ,0,S,,,IVZ,16:16:09.418,5.62,Diversified Finan Serv
+JBHT,0,S,,,JBHT,16:16:09.418,5.70,Transportation
+JBL,0,S,,,JBL,16:16:09.418,12.96,Electronics
+JCI,0,S,,,JCI,16:16:09.419,6.45,Building Materials
+JD,0,S,,,JD,16:16:09.419,7.08,Internet
+JEF,0,S,,,JEF,16:16:09.419,3.64,Diversified Finan Serv
+JNPR,0,S,,,JNPR,16:16:09.420,3.47,Telecommunications
+JPM,0,S,,,JPM,16:16:09.420,2.10,Banks
+JWN,0,S,,,JWN,16:16:09.420,7.65,Retail
+JXN,0,S,,,JXN,16:16:09.421,8.19,Insurance
+K,0,S,,,K,16:16:09.421,2.84,Food
+KBH,0,S,,,KBH,16:16:09.421,2.21,Home Builders
+KBR,0,S,,,KBR,16:16:09.421,5.03,Computers
+KD,0,S,,,KD,16:16:09.422,14.96,Computers
+KDP,0,S,,,KDP,16:16:09.422,3.01,Beverages
+KEX,0,S,,,KEX,16:16:09.422,5.39,Transportation
+KEY,0,S,,,KEY,16:16:09.423,2.84,Banks
+KEYS,0,S,,,KEYS,16:16:09.423,7.35,Electronics
+KHC,0,S,,,KHC,16:16:09.423,3.42,Food
+KKR,0,S,,,KKR,16:16:09.424,3.99,Private Equity
+KLAC,0,S,,,KLAC,16:16:09.424,3.83,Semiconductors
+KMB,0,S,,,KMB,16:16:09.424,4.19,Household Products/Wares
+KMI,0,S,,,KMI,16:16:09.425,1.85,Pipelines
+KMX,0,S,,,KMX,16:16:09.425,7.65,Retail
+KNX,0,S,,,KNX,16:16:09.426,4.66,Transportation
+KO,0,S,,,KO,16:16:09.426,1.10,Beverages
+KR,0,S,,,KR,16:16:09.426,4.08,Food
+KTOS,0,S,,,KTOS,16:16:09.426,9.84,Aerospace/Defense
+KVUE,0,S,,,KVUE,16:16:09.427,4.19,Cosmetics/Personal Care
+LAZ,0,S,,,LAZ,16:16:09.427,4.35,Diversified Finan Serv
+LBTYA,0,S,,,LBTYA,16:16:09.428,3.69,Media
+LDOS,0,S,,,LDOS,16:16:09.428,8.36,Computers
+LEA,0,S,,,LEA,16:16:09.428,3.14,Auto Parts_Equipment
+LEN,0,S,,,LEN,16:16:09.428,4.62,Home Builders
+LEVI,0,S,,,LEVI,16:16:09.428,7.52,Apparel
+LH,0,S,,,LH,16:16:09.428,3.49,Healthcare-Services
+LHX,0,S,,,LHX,16:16:09.428,3.18,Aerospace/Defense
+LI,0,S,,,LI,16:16:09.428,11.69,Auto Manufacturers
+LIN,0,S,,,LIN,16:16:09.428,2.33,Chemicals
+LITE,0,S,,,LITE,16:16:09.428,7.17,Computers
+LMT,0,S,,,LMT,16:16:09.428,2.65,Aerospace/Defense
+LNC,0,S,,,LNC,16:16:09.428,3.49,Insurance
+LNG,0,S,,,LNG,16:16:09.428,3.40,Pipelines
+LNW,0,S,,,LNW,16:16:09.428,4.38,Entertainment
+LOW,0,S,,,LOW,16:16:09.428,2.45,Retail
+LPLA,0,S,,,LPLA,16:16:09.428,2.63,Diversified Finan Serv
+LPX,0,S,,,LPX,16:16:09.428,8.81,Building Materials
+LRCX,0,S,,,LRCX,16:16:09.428,5.34,Semiconductors
+LRN,0,S,,,LRN,16:16:09.428,9.29,Commercial Services
+LSCC,0,S,,,LSCC,16:16:09.428,6.94,Semiconductors
+LULU,0,S,,,LULU,16:16:09.428,8.65,Retail
+LUV,0,S,,,LUV,16:16:09.428,4.93,Airlines
+LVS,0,S,,,LVS,16:16:09.428,4.08,Lodging
+LW,0,S,,,LW,16:16:09.428,12.55,Food
+LYB,0,S,,,LYB,16:16:09.428,1.86,Chemicals
+LYFT,0,S,,,LYFT,16:16:09.428,15.50,Internet
+LYV,0,S,,,LYV,16:16:09.428,7.12,Entertainment
+M,0,S,,,M,16:16:09.428,5.89,Retail
+MA,0,S,,,MA,16:16:09.428,2.48,Diversified Finan Serv
+MAR,0,S,,,MAR,16:16:09.428,2.92,Lodging
+MARA,0,S,,,MARA,16:16:09.428,10.61,Commercial Services
+MAS,0,S,,,MAS,16:16:09.428,4.66,Building Materials
+MAT,0,S,,,MAT,16:16:09.428,4.10,Toys/Games/Hobbies
+MBLY,0,S,,,MBLY,16:16:09.428,6.26,Auto Parts_Equipment
+MCD,0,S,,,MCD,16:16:09.444,1.48,Retail
+MCHP,0,S,,,MCHP,16:16:09.444,3.03,Semiconductors
+MCO,0,S,,,MCO,16:16:09.444,2.68,Commercial Services
+MDB,0,S,,,MDB,16:16:09.444,14.50,Software
+MDLZ,0,S,,,MDLZ,16:16:09.444,2.50,Food
+MDT,0,S,,,MDT,16:16:09.444,3.70,Healthcare-Products
+MET,0,S,,,MET,16:16:09.444,3.71,Insurance
+META,0,S,,,META,16:16:09.444,10.59,Internet
+MFC,0,S,,,MFC,16:16:09.444,4.01,Insurance
+MGA,0,S,,,MGA,16:16:09.444,6.08,Auto Parts_Equipment
+MGM,0,S,,,MGM,16:16:09.444,3.50,Lodging
+MHK,0,S,,,MHK,16:16:09.444,4.34,Building Materials
+MIDD,0,S,,,MIDD,16:16:09.444,1.72,Machinery-Diversified
+MKC,0,S,,,MKC,16:16:09.444,6.62,Food
+MKSI,0,S,,,MKSI,16:16:09.444,2.53,Semiconductors
+MMC,0,S,,,MMC,16:16:09.444,1.81,Insurance
+MMM,0,S,,,MMM,16:16:09.444,5.40,Miscellaneous Manufactur
+MNDY,0,S,,,MNDY,16:16:09.444,13.41,Software
+MNST,0,S,,,MNST,16:16:09.444,4.51,Beverages
+MO,0,S,,,MO,16:16:09.444,3.07,Agriculture
+MOH,0,S,,,MOH,16:16:09.444,4.90,Healthcare-Services
+MOS,0,S,,,MOS,16:16:09.444,5.10,Chemicals
+MPC,0,S,,,MPC,16:16:09.444,4.88,Oil_Gas
+MPLX,0,S,,,MPLX,16:16:09.444,0.47,Pipelines
+MPWR,0,S,,,MPWR,16:16:09.444,8.96,Semiconductors
+MRO,0,S,,,MRO,16:16:09.444,1.18,Oil_Gas
+MRVL,0,S,,,MRVL,16:16:09.444,13.22,Semiconductors
+MS,0,S,,,MS,16:16:09.444,4.16,Banks
+MSCI,0,S,,,MSCI,16:16:09.444,8.37,Software
+MSFT,0,S,,,MSFT,16:16:09.444,3.72,Software
+MSI,0,S,,,MSI,16:16:09.459,3.72,Telecommunications
+MSTR,0,S,,,MSTR,16:16:09.459,7.80,Software
+MT,0,S,,,MT,16:16:09.459,3.96,Iron/Steel
+MTB,0,S,,,MTB,16:16:09.459,2.56,Banks
+MTCH,0,S,,,MTCH,16:16:09.459,5.25,Internet
+MTDR,0,S,,,MTDR,16:16:09.459,2.69,Oil_Gas
+MTN,0,S,,,MTN,16:16:09.459,6.14,Entertainment
+MTZ,0,S,,,MTZ,16:16:09.475,12.77,Engineering_Construction
+MU,0,S,,,MU,16:16:09.475,7.67,Semiconductors
+MUR,0,S,,,MUR,16:16:09.475,1.45,Oil_Gas
+NCLH,0,S,,,NCLH,16:16:09.475,11.90,Leisure Time
+NDAQ,0,S,,,NDAQ,16:16:09.475,3.24,Diversified Finan Serv
+NEE,0,S,,,NEE,16:16:09.475,2.94,Electric
+NEM,0,S,,,NEM,16:16:09.475,6.45,Mining
+NET,0,S,,,NET,16:16:09.475,15.53,Software
+NFLX,0,S,,,NFLX,16:16:09.475,9.15,Internet
+NGG,0,S,,,NGG,16:16:09.475,2.95,Electric
+NI,0,S,,,NI,16:16:09.475,0.91,Gas
+NKE,0,S,,,NKE,16:16:09.475,9.61,Apparel
+NOC,0,S,,,NOC,16:16:09.475,3.87,Aerospace/Defense
+NOV,0,S,,,NOV,16:16:09.475,4.81,Oil_Gas Services
+NOW,0,S,,,NOW,16:16:09.475,4.96,Software
+NRG,0,S,,,NRG,16:16:09.475,3.60,Electric
+NSC,0,S,,,NSC,16:16:09.475,2.81,Transportation
+NTAP,0,S,,,NTAP,16:16:09.475,9.19,Computers
+NTES,0,S,,,NTES,16:16:09.475,3.31,Software
+NTNX,0,S,,,NTNX,16:16:09.475,12.56,Software
+NTR,0,S,,,NTR,16:16:09.475,4.35,Chemicals
+NTRS,0,S,,,NTRS,16:16:09.475,6.49,Banks
+NU,0,S,,,NU,16:16:09.475,3.42,Banks
+NUE,0,S,,,NUE,16:16:09.475,5.08,Iron/Steel
+NVDA,0,S,,,NVDA,16:16:09.475,10.53,Semiconductors
+NWSA,0,S,,,NWSA,16:16:09.475,4.78,Media
+NXPI,0,S,,,NXPI,16:16:09.475,3.61,Semiconductors
+NYT,0,S,,,NYT,16:16:09.475,6.57,Media
+OC,0,S,,,OC,16:16:09.475,4.36,Building Materials
+OKE,0,S,,,OKE,16:16:09.475,1.51,Pipelines
+OKTA,0,S,,,OKTA,16:16:09.475,12.92,Internet
+OLLI,0,S,,,OLLI,16:16:09.475,3.07,Retail
+OLN,0,S,,,OLN,16:16:09.475,4.44,Chemicals
+OMC,0,S,,,OMC,16:16:09.475,4.12,Advertising
+OMF,0,S,,,OMF,16:16:09.475,3.36,Diversified Finan Serv
+ON,0,S,,,ON,16:16:09.475,9.35,Semiconductors
+ONON,0,S,,,ONON,16:16:09.475,10.85,Apparel
+ORCL,0,S,,,ORCL,16:16:09.475,10.24,Software
+OSCR,0,S,,,OSCR,16:16:09.475,12.10,Healthcare-Services
+OTEX,0,S,,,OTEX,16:16:09.475,8.95,Software
+OVV,0,S,,,OVV,16:16:09.475,3.04,Oil_Gas
+OXY,0,S,,,OXY,16:16:09.475,2.68,Oil_Gas
+OZK,0,S,,,OZK,16:16:09.475,4.01,Banks
+PAA,0,S,,,PAA,16:16:09.475,1.77,Pipelines
+PAAS,0,S,,,PAAS,16:16:09.475,6.00,Mining
+PAGP,0,S,,,PAGP,16:16:09.475,2.15,Pipelines
+PAGS,0,S,,,PAGS,16:16:09.475,4.68,Diversified Finan Serv
+PANW,0,S,,,PANW,16:16:09.491,12.02,Internet
+PARA,0,S,,,PARA,16:16:09.491,10.52,Media
+PATH,0,S,,,PATH,16:16:09.491,18.06,Software
+PAYC,0,S,,,PAYC,16:16:09.491,14.30,Software
+PAYX,0,S,,,PAYX,16:16:09.491,3.62,Software
+PB,0,S,,,PB,16:16:09.491,2.66,Banks
+PBF,0,S,,,PBF,16:16:09.491,2.13,Oil_Gas
+PBR,0,S,,,PBR,16:16:09.491,4.09,Oil_Gas
+PCAR,0,S,,,PCAR,16:16:09.491,5.72,Auto Manufacturers
+PCG,0,S,,,PCG,16:16:09.491,1.19,Electric
+PDD,0,S,,,PDD,16:16:09.491,11.43,Internet
+PEG,0,S,,,PEG,16:16:09.491,1.12,Electric
+PENN,0,S,,,PENN,16:16:09.491,11.87,Entertainment
+PEP,0,S,,,PEP,16:16:09.491,2.20,Beverages
+PG,0,S,,,PG,16:16:09.491,2.71,Cosmetics/Personal Care
+PGR,0,S,,,PGR,16:16:09.491,6.01,Insurance
+PH,0,S,,,PH,16:16:09.491,4.49,Miscellaneous Manufactur
+PHG,0,S,,,PHG,16:16:09.491,11.23,Healthcare-Products
+PHM,0,S,,,PHM,16:16:09.491,2.57,Home Builders
+PII,0,S,,,PII,16:16:09.491,2.90,Leisure Time
+PINS,0,S,,,PINS,16:16:09.491,13.80,Internet
+PKG,0,S,,,PKG,16:16:09.491,4.42,Packaging_Containers
+PLNT,0,S,,,PLNT,16:16:09.491,9.33,Leisure Time
+PLTR,0,S,,,PLTR,16:16:09.491,19.00,Software
+PM,0,S,,,PM,16:16:09.491,2.39,Agriculture
+PNC,0,S,,,PNC,16:16:09.491,2.39,Banks
+PNR,0,S,,,PNR,16:16:09.491,3.56,Environmental Control
+PODD,0,S,,,PODD,16:16:09.491,6.91,Healthcare-Products
+PPC,0,S,,,PPC,16:16:09.491,3.52,Food
+PPG,0,S,,,PPG,16:16:09.491,2.26,Chemicals
+PPL,0,S,,,PPL,16:16:09.491,1.40,Electric
+PRKS,0,S,,,PRKS,16:16:09.491,4.75,Entertainment
+PRU,0,S,,,PRU,16:16:09.491,2.25,Insurance
+PSTG,0,S,,,PSTG,16:16:09.491,11.39,Computers
+PSX,0,S,,,PSX,16:16:09.491,1.97,Oil_Gas
+PTC,0,S,,,PTC,16:16:09.491,2.16,Software
+PUK,0,S,,,PUK,16:16:09.491,5.19,Insurance
+PVH,0,S,,,PVH,16:16:09.491,8.87,Apparel
+PWR,0,S,,,PWR,16:16:09.491,4.51,Commercial Services
+PYPL,0,S,,,PYPL,16:16:09.491,8.85,Commercial Services
+QCOM,0,S,,,QCOM,16:16:09.491,6.86,Semiconductors
+QFIN,0,S,,,QFIN,16:16:09.491,6.69,Diversified Finan Serv
+QGEN,0,S,,,QGEN,16:16:09.491,2.20,Healthcare-Products
+QRVO,0,S,,,QRVO,16:16:09.491,4.77,Semiconductors
+QSR,0,S,,,QSR,16:16:09.491,2.32,Retail
+RBLX,0,S,,,RBLX,16:16:09.491,14.69,Software
+RCL,0,S,,,RCL,16:16:09.491,3.62,Leisure Time
+RDDT,0,S,,,RDDT,16:16:09.491,4.05,Internet
+RDN,0,S,,,RDN,16:16:09.491,2.46,Insurance
+RF,0,S,,,RF,16:16:09.491,3.95,Banks
+RH,0,S,,,RH,16:16:09.491,13.41,Retail
+RIO,0,S,,,RIO,16:16:09.491,1.51,Mining
+RIOT,0,S,,,RIOT,16:16:09.506,7.32,Commercial Services
+RIVN,0,S,,,RIVN,16:16:09.506,7.98,Auto Manufacturers
+RJF,0,S,,,RJF,16:16:09.507,3.55,Diversified Finan Serv
+RKT,0,S,,,RKT,16:16:09.507,5.93,Diversified Finan Serv
+RL,0,S,,,RL,16:16:09.507,6.68,Apparel
+RMBS,0,S,,,RMBS,16:16:09.507,11.50,Semiconductors
+RNG,0,S,,,RNG,16:16:09.507,10.52,Software
+ROK,0,S,,,ROK,16:16:09.507,6.99,Machinery-Diversified
+ROKU,0,S,,,ROKU,16:16:09.507,19.41,Internet
+ROP,0,S,,,ROP,16:16:09.507,3.65,Software
+ROST,0,S,,,ROST,16:16:09.507,4.26,Retail
+RPM,0,S,,,RPM,16:16:09.507,6.62,Chemicals
+RRC,0,S,,,RRC,16:16:09.507,2.32,Oil_Gas
+RTX,0,S,,,RTX,16:16:09.507,6.23,Aerospace/Defense
+RUN,0,S,,,RUN,16:16:09.507,11.84,Energy-Alternate Sources
+RY,0,S,,,RY,16:16:09.507,2.64,Banks
+RYAAY,0,S,,,RYAAY,16:16:09.507,6.73,Airlines
+S,0,S,,,S,16:16:09.507,17.04,Software
+SAP,0,S,,,SAP,16:16:09.507,6.08,Software
+SBUX,0,S,,,SBUX,16:16:09.507,7.30,Retail
+SCCO,0,S,,,SCCO,16:16:09.507,1.80,Mining
+SCHW,0,S,,,SCHW,16:16:09.507,6.09,Diversified Finan Serv
+SE,0,S,,,SE,16:16:09.507,15.37,Internet
+SEE,0,S,,,SEE,16:16:09.507,8.15,Packaging_Containers
+SEIC,0,S,,,SEIC,16:16:09.507,2.04,Diversified Finan Serv
+SEM,0,S,,,SEM,16:16:09.507,6.17,Healthcare-Services
+SFM,0,S,,,SFM,16:16:09.507,7.28,Food
+SHAK,0,S,,,SHAK,16:16:09.507,9.21,Retail
+SHEL,0,S,,,SHEL,16:16:09.507,2.53,Oil_Gas
+SHOO,0,S,,,SHOO,16:16:09.507,1.80,Apparel
+SHOP,0,S,,,SHOP,16:16:09.507,16.72,Internet
+SHW,0,S,,,SHW,16:16:09.507,2.91,Chemicals
+SIG,0,S,,,SIG,16:16:09.507,9.70,Retail
+SJM,0,S,,,SJM,16:16:09.507,2.78,Food
+SKX,0,S,,,SKX,16:16:09.507,7.88,Apparel
+SLB,0,S,,,SLB,16:16:09.507,2.29,Oil_Gas Services
+SLV,0,S,,,SLV,16:16:09.507,0.00,Commodity Fund
+SM,0,S,,,SM,16:16:09.507,4.11,Oil_Gas
+SMAR,0,S,,,SMAR,16:16:09.507,9.96,Software
+SMCI,0,S,,,SMCI,16:16:09.507,14.34,Computers
+SMG,0,S,,,SMG,16:16:09.507,9.91,Housewares
+SNAP,0,S,,,SNAP,16:16:09.507,19.78,Internet
+SNOW,0,S,,,SNOW,16:16:09.507,10.44,Software
+SNPS,0,S,,,SNPS,16:16:09.507,4.09,Software
+SNV,0,S,,,SNV,16:16:09.507,3.87,Banks
+SO,0,S,,,SO,16:16:09.507,1.92,Electric
+SONY,0,S,,,SONY,16:16:09.507,5.99,Home Furnishings
+SPGI,0,S,,,SPGI,16:16:09.507,4.95,Commercial Services
+SPOT,0,S,,,SPOT,16:16:09.507,10.38,Internet
+SPR,0,S,,,SPR,16:16:09.507,10.55,Aerospace/Defense
+SQ,0,S,,,SQ,16:16:09.507,8.72,Commercial Services
+SQM,0,S,,,SQM,16:16:09.523,4.03,Chemicals
+SQSP,0,S,,,SQSP,16:16:09.523,2.14,Internet
+SRCL,0,S,,,SRCL,16:16:09.523,5.59,Environmental Control
+SRE,0,S,,,SRE,16:16:09.523,1.07,Electric
+SSNC,0,S,,,SSNC,16:16:09.523,3.60,Software
+ST,0,S,,,ST,16:16:09.523,7.67,Electronics
+STLA,0,S,,,STLA,16:16:09.523,5.21,Auto Manufacturers
+STLD,0,S,,,STLD,16:16:09.523,2.25,Iron/Steel
+STM,0,S,,,STM,16:16:09.523,5.13,Semiconductors
+STNE,0,S,,,STNE,16:16:09.523,8.30,Commercial Services
+STNG,0,S,,,STNG,16:16:09.523,3.52,Transportation
+STT,0,S,,,STT,16:16:09.523,5.24,Banks
+STX,0,S,,,STX,16:16:09.523,3.16,Computers
+STZ,0,S,,,STZ,16:16:09.523,2.05,Beverages
+SU,0,S,,,SU,16:16:09.523,1.34,Oil_Gas
+SUN,0,S,,,SUN,16:16:09.523,1.18,Oil_Gas
+SWK,0,S,,,SWK,16:16:09.523,4.09,Hand/Machine Tools
+SWKS,0,S,,,SWKS,16:16:09.523,4.71,Semiconductors
+SYF,0,S,,,SYF,16:16:09.523,2.63,Diversified Finan Serv
+SYK,0,S,,,SYK,16:16:09.523,2.82,Healthcare-Products
+SYY,0,S,,,SYY,16:16:09.523,2.85,Food
+T,0,S,,,T,16:16:09.523,3.45,Telecommunications
+TAL,0,S,,,TAL,16:16:09.523,5.63,Commercial Services
+TAP,0,S,,,TAP,16:16:09.523,4.84,Beverages
+TCOM,0,S,,,TCOM,16:16:09.523,6.00,Internet
+TD,0,S,,,TD,16:16:09.523,2.26,Banks
+TDC,0,S,,,TDC,16:16:09.523,12.46,Software
+TEAM,0,S,,,TEAM,16:16:09.523,10.70,Software
+TECK,0,S,,,TECK,16:16:09.523,4.19,Mining
+TEL,0,S,,,TEL,16:16:09.523,3.81,Electronics
+TER,0,S,,,TER,16:16:09.523,7.17,Semiconductors
+TEX,0,S,,,TEX,16:16:09.523,4.65,Machinery-Constr_Mining
+TFC,0,S,,,TFC,16:16:09.523,3.34,Banks
+TGT,0,S,,,TGT,16:16:09.523,8.67,Retail
+THC,0,S,,,THC,16:16:09.523,4.54,Healthcare-Services
+THO,0,S,,,THO,16:16:09.523,7.47,Home Builders
+TJX,0,S,,,TJX,16:16:09.523,2.49,Retail
+TLT,0,S,,,TLT,16:16:09.523,0.00,Debt Fund
+TME,0,S,,,TME,16:16:09.523,4.94,Internet
+TMO,0,S,,,TMO,16:16:09.523,3.12,Healthcare-Products
+TMUS,0,S,,,TMUS,16:16:09.523,1.02,Telecommunications
+TOL,0,S,,,TOL,16:16:09.523,4.06,Home Builders
+TOST,0,S,,,TOST,16:16:09.523,13.33,Commercial Services
+TPR,0,S,,,TPR,16:16:09.523,4.43,Apparel
+TPX,0,S,,,TPX,16:16:09.523,3.99,Home Furnishings
+TRGP,0,S,,,TRGP,16:16:09.523,3.40,Pipelines
+TRMB,0,S,,,TRMB,16:16:09.523,6.11,Electronics
+TROW,0,S,,,TROW,16:16:09.523,4.65,Diversified Finan Serv
+TRP,0,S,,,TRP,16:16:09.523,2.64,Pipelines
+TRU,0,S,,,TRU,16:16:09.523,9.29,Commercial Services
+TRV,0,S,,,TRV,16:16:09.523,4.89,Insurance
+TS,0,S,,,TS,16:16:09.539,5.91,Metal Fabricate/Hardware
+TSCO,0,S,,,TSCO,16:16:09.539,3.64,Retail
+TSLA,0,S,,,TSLA,16:16:09.539,11.11,Auto Manufacturers
+TSM,0,S,,,TSM,16:16:09.539,4.76,Semiconductors
+TSN,0,S,,,TSN,16:16:09.539,6.15,Food
+TT,0,S,,,TT,16:16:09.539,6.77,Miscellaneous Manufactur
+TTC,0,S,,,TTC,16:16:09.539,9.77,Machinery-Diversified
+TTD,0,S,,,TTD,16:16:09.539,8.53,Advertising
+TTE,0,S,,,TTE,16:16:09.539,1.14,Oil_Gas
+TTWO,0,S,,,TTWO,16:16:09.539,4.81,Software
+TWLO,0,S,,,TWLO,16:16:10.039,7.61,Software
+TXN,0,S,,,TXN,16:16:10.039,3.40,Semiconductors
+TXRH,0,S,,,TXRH,16:16:10.039,4.57,Retail
+TXT,0,S,,,TXT,16:16:10.039,6.45,Miscellaneous Manufactur
+U,0,S,,,U,16:16:10.039,7.42,Software
+UAL,0,S,,,UAL,16:16:10.039,7.36,Airlines
+UBER,0,S,,,UBER,16:16:10.039,5.38,Internet
+UBS,0,S,,,UBS,16:16:10.039,5.03,Banks
+UHS,0,S,,,UHS,16:16:10.039,4.06,Healthcare-Services
+UL,0,S,,,UL,16:16:10.039,3.37,Cosmetics/Personal Care
+ULTA,0,S,,,ULTA,16:16:10.039,7.11,Retail
+UMBF,0,S,,,UMBF,16:16:10.039,4.98,Banks
+UNH,0,S,,,UNH,16:16:10.039,4.99,Healthcare-Services
+UNM,0,S,,,UNM,16:16:10.039,4.97,Insurance
+UNP,0,S,,,UNP,16:16:10.039,3.74,Transportation
+UPS,0,S,,,UPS,16:16:10.039,5.90,Transportation
+URBN,0,S,,,URBN,16:16:10.039,10.08,Apparel
+URI,0,S,,,URI,16:16:10.039,5.16,Commercial Services
+USB,0,S,,,USB,16:16:10.039,4.07,Banks
+USFD,0,S,,,USFD,16:16:10.039,3.31,Food
+V,0,S,,,V,16:16:10.039,1.53,Diversified Finan Serv
+VALE,0,S,,,VALE,16:16:10.039,2.64,Iron/Steel
+VEEV,0,S,,,VEEV,16:16:10.039,8.58,Software
+VFC,0,S,,,VFC,16:16:10.039,6.32,Apparel
+VIPS,0,S,,,VIPS,16:16:10.039,5.80,Internet
+VIRT,0,S,,,VIRT,16:16:10.039,6.88,Diversified Finan Serv
+VIST,0,S,,,VIST,16:16:10.039,3.46,Oil_Gas
+VLO,0,S,,,VLO,16:16:10.039,2.13,Oil_Gas
+VLTO,0,S,,,VLTO,16:16:10.039,2.36,Environmental Control
+VMC,0,S,,,VMC,16:16:10.039,3.91,Building Materials
+VOYA,0,S,,,VOYA,16:16:10.039,3.73,Insurance
+VRSK,0,S,,,VRSK,16:16:10.039,4.55,Commercial Services
+VRSN,0,S,,,VRSN,16:16:10.039,2.78,Internet
+VRT,0,S,,,VRT,16:16:10.039,11.90,Machinery-Constr_Mining
+VST,0,S,,,VST,16:16:10.039,5.03,Electric
+VZ,0,S,,,VZ,16:16:10.039,5.50,Telecommunications
+W,0,S,,,W,16:16:10.039,12.58,Internet
+WAB,0,S,,,WAB,16:16:10.039,5.09,Machinery-Diversified
+WAL,0,S,,,WAL,16:16:10.039,5.92,Banks
+WBA,0,S,,,WBA,16:16:10.039,9.37,Retail
+WBS,0,S,,,WBS,16:16:10.039,3.55,Banks
+WCC,0,S,,,WCC,16:16:10.039,14.22,Distribution/Wholesale
+WDAY,0,S,,,WDAY,16:16:10.039,9.14,Software
+WDC,0,S,,,WDC,16:16:10.039,3.19,Computers
+WEC,0,S,,,WEC,16:16:10.039,0.42,Electric
+WEN,0,S,,,WEN,16:16:10.039,1.53,Retail
+WFC,0,S,,,WFC,16:16:10.039,2.63,Banks
+WH,0,S,,,WH,16:16:10.054,3.64,Lodging
+WHR,0,S,,,WHR,16:16:10.054,7.67,Home Furnishings
+WIX,0,S,,,WIX,16:16:10.054,9.52,Internet
+WM,0,S,,,WM,16:16:10.054,5.03,Environmental Control
+WMB,0,S,,,WMB,16:16:10.054,1.77,Pipelines
+WMT,0,S,,,WMT,16:16:10.054,4.37,Retail
+WPM,0,S,,,WPM,16:16:10.054,1.41,Mining
+WSM,0,S,,,WSM,16:16:10.054,9.74,Retail
+WU,0,S,,,WU,16:16:10.054,5.63,Diversified Finan Serv
+WYNN,0,S,,,WYNN,16:16:10.054,3.26,Lodging
+X,0,S,,,X,16:16:10.054,2.28,Iron/Steel
+XEL,0,S,,,XEL,16:16:10.054,1.67,Electric
+XOM,0,S,,,XOM,16:16:10.054,1.52,Oil_Gas
+XP,0,S,,,XP,16:16:10.054,5.59,Diversified Finan Serv
+XPO,0,S,,,XPO,16:16:10.054,8.98,Transportation
+XYL,0,S,,,XYL,16:16:10.054,3.13,Machinery-Diversified
+YETI,0,S,,,YETI,16:16:10.054,8.98,Leisure Time
+YPF,0,S,,,YPF,16:16:10.054,3.24,Oil_Gas
+YUM,0,S,,,YUM,16:16:10.054,2.27,Retail
+YUMC,0,S,,,YUMC,16:16:10.054,7.85,Retail
+Z,0,S,,,Z,16:16:10.054,5.33,Internet
+ZBH,0,S,,,ZBH,16:16:10.054,2.96,Healthcare-Products
+ZG,0,S,,,ZG,16:16:10.054,5.52,Internet
+ZI,0,S,,,ZI,16:16:10.054,16.66,Software
+ZION,0,S,,,ZION,16:16:10.054,6.11,Banks
+ZM,0,S,,,ZM,16:16:10.054,3.73,Software
+ZS,0,S,,,ZS,16:16:10.054,5.40,Computers
+ZTO,0,S,,,ZTO,16:16:10.054,4.97,Transportation
